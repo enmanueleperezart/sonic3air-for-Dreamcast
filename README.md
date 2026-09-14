@@ -1,4 +1,7 @@
+<img width="1040" height="1024" alt="Sonic 3 AIR Dreamcast cover art by Enmanuel E  Pérez (logo by Triforce141)" src="https://github.com/user-attachments/assets/f508b2b9-a773-42a8-be39-b028a521737c" />
 This is an attempt to port this remaster to the Dreamcast console (a very early attempt actually). All the credits to the original Sonic 3 A.I.R. development team and any contributions are welcome!
+
+Sonic 3 AIR Dreamcast cover art by Enmanuel E. Pérez (logo by Triforce141)
 
 ORIGINAL DISCLAIMER BY THE SONIC 3 A.I.R. DEVELOPMENT TEAM:
 
