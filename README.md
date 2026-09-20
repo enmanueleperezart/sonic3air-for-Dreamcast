@@ -1,5 +1,11 @@
 This is an attempt to port this remaster to the Dreamcast console (a very early attempt actually). All the credits to the original Sonic 3 A.I.R. development team and any contributions are welcome!
 
+<img width="512" height="507" alt="321 sin título_20260920052450" src="https://github.com/user-attachments/assets/608fae56-2e0b-4165-9d70-6a6d46817bce" />
+
+
+<img width="256" height="256" alt="324 sin título_20260920052027" src="https://github.com/user-attachments/assets/43dfceda-d500-4e36-aa84-94479bfe2510" />
+
+
 Sonic 3 AIR Dreamcast cover and disk art by Enmanuel E. Pérez (logo by Triforce141) (Original Illustrations by Sonic Team/ SEGA)
 
 VMU save file icon!
