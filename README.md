@@ -4,7 +4,7 @@ Box art:
 
 <img width="512" height="507" alt="321 sin título_20260920053437" src="https://github.com/user-attachments/assets/73b6a1f8-b461-489f-8d35-6d16f313e76a" />
 
-oooooo:
+0GDTEX:
 
 <img width="256" height="256" alt="324 sin título_20260920052027" src="https://github.com/user-attachments/assets/43dfceda-d500-4e36-aa84-94479bfe2510" />
 
