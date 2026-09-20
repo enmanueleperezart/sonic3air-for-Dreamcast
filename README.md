@@ -9,7 +9,7 @@ Box art:
 <img width="256" height="256" alt="324 sin título_20260920052027" src="https://github.com/user-attachments/assets/43dfceda-d500-4e36-aa84-94479bfe2510" />
 
 
-Sonic 3 AIR Dreamcast box and disk art by Enmanuel E. Pérez (logo by Triforce141) (Original Illustrations by Sonic Team/ SEGA)
+Sonic 3 AIR Dreamcast box and disc art by Enmanuel E. Pérez (logo by Triforce141) (Original Illustrations by Sonic Team/ SEGA)
 
 VMU icon and save file icon:
 
