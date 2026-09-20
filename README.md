@@ -1,3 +1,11 @@
+This is an attempt to port this remaster to the Dreamcast console (a very early attempt actually). All the credits to the original Sonic 3 A.I.R. development team and any contributions are welcome!
+
+Sonic 3 AIR Dreamcast cover and disk art by Enmanuel E. Pérez (logo by Triforce141) (Original Illustrations by Sonic Team/ SEGA)
+
+VMU save file icon!
+
+ORIGINAL DISCLAIMER BY THE SONIC 3 A.I.R. DEVELOPMENT TEAM:
+
 # Sonic 3 A.I.R.
 
 Source code incl. dependencies for "Sonic 3 - Angel Island Revisited", a fan-made remaster of Sonic 3 & Knuckles.
